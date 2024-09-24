@@ -41,9 +41,6 @@
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> 
 </a> 
-<a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/sonarsource_sonarqube/sonarsource_sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/> 
-</a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a> 
@@ -61,9 +58,6 @@
 </a> 
 <a href="https://flink.apache.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" alt="flink" width="40" height="40"/> 
-</a> 
-<a href="https://www.keycloak.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/keycloak/keycloak-icon.svg" alt="keycloak" width="40" height="40"/> 
 </a> 
 <a href="https://helm.sh/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/> 
