@@ -13,7 +13,7 @@
 
 - 📫 You can reach me using my mail: **abhilash.dube@tekditechnologies.com**
 
-<h3 align="left">Technologies and Frameworks:</h3>
+<h3 align="left">Technologies and Tools:</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a>
