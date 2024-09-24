@@ -7,7 +7,7 @@
 
 - 🔭 🔭 I have worked extensively with **Docker, Kubernetes, Terraform, AWS, Jenkins, Maven, Git, Sonarqube, Flink, Grafana, Prometheus, k9s and Rancher.**
 
-- 🌱 I’m currently expanding my knowledge in **Secuere cloud architecture, microservices in K8s, and infrastructure as code (IaC).**
+- 🌱 I’m currently expanding my knowledge in **Secure cloud architecture, microservices in K8s, and infrastructure as code (IaC).**
 
 - 📄 Interested in **system scalability, DevSecOps, Cyber Security, cloud networking, and optimizing deployment strategies for high-availability applications.**
 
